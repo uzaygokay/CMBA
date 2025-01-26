@@ -1,0 +1,10 @@
+Maze Size: 5, 5
+Start Direction: right
+
+W W W W W W W
+W S 0 0 0 0 W
+W 0 0 W W 0 W
+W 0 0 W D 0 W
+W 0 W W 0 0 W
+W 0 0 R 0 T W
+W W W W W W W
